@@ -1,0 +1,13 @@
+GenomeScope version 2.0
+input file = gano.histo
+output directory = gs_out
+p = 1
+k = 21
+
+property                      min               max               
+Homozygous (a)                100%              100%              
+Genome Haploid Length         48,847,157 bp     49,331,146 bp     
+Genome Repeat Length          11,894,110 bp     12,011,960 bp     
+Genome Unique Length          36,953,047 bp     37,319,186 bp     
+Model Fit                     73.6585%          97.9971%          
+Read Error Rate               0.378661%         0.378661%         
